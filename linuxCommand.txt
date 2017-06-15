@@ -1,0 +1,2 @@
+tmux 滚动窗口  Ctl-b [  进入滚动模式
+tmux 关闭当前session Ctl-b & 
